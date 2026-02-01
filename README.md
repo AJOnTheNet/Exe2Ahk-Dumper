@@ -303,5 +303,3 @@ Copyright (c) 2026 AJ
 ```
 
 This repo was developed by **AJ** — [https://github.com/AJOnTheNet](https://github.com/AJOnTheNet)
-
-If you prefer a different license, change the `LICENSE` file accordingly.
